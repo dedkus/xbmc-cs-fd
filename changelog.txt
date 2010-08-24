@@ -1,3 +1,6 @@
+2.0.0
+ask for git pull
+new logo, xml pretty print
 2.0b
 poster from csfd / imdb configuration
 
