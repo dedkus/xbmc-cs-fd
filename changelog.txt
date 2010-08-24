@@ -1,0 +1,5 @@
+2.0b
+poster from csfd / imdb configuration
+
+2.0alpha
+Initial revision for xbmc > 9.11
