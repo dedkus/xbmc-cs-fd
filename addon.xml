@@ -12,7 +12,7 @@
   </requires>
   <extension point="xbmc.metadata.scraper.movies"
              language="cs" 
-             library="csfdcz_imdbthmb.xml" /> 
+             library="csfdcz.xml" /> 
   <extension point="xbmc.addon.metadata">
     <platform>all</platform>
     <minversion>20000</minversion>
